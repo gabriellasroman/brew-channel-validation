@@ -1,5 +1,4 @@
 # Koji Channel Validator Tool #
-
 ### Contributers: Rory Wirch, Gabriella Roman, Jennifer Kim
 #TODO: add mentors?
 
